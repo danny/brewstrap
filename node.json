@@ -1,13 +1,15 @@
 {
 	"git_projects": [
-		["danny","https://github.com/danny/brewstrap.git"]
+		["danny","https://github.com/danny/brewstrap.git",
+		"casebook", "https://github.com/pivotal-casebook/pivotal_workstation.git"]
 		],
 		
 	"run_list":[
 		"pivotal_workstation::git_projects",
 		"pivotal_workstation::meta_osx_base",
 		"pivotal_workstation::meta_osx_development",
-		"pivotal_workstation::meta_ruby_development"
+		"pivotal_workstation::meta_ruby_development",
+		"casebook::vim"
 		]
 }
 
