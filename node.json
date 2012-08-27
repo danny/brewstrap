@@ -1,4 +1,5 @@
 {
 	"git_projects": ["danny":"https://github.com/danny/brewstrap.git"]
+	"run_list":["pivotal_workstation::git_projects"]
 }
 
