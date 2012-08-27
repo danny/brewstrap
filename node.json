@@ -1,7 +1,6 @@
 {
 	"git_projects": [
-		["danny","https://github.com/danny/brewstrap.git",
-		"casebook", "https://github.com/pivotal-casebook/pivotal_workstation.git"]
+		["danny","https://github.com/danny/brewstrap.git"]
 		],
 		
 	"run_list":[
