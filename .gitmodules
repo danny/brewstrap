@@ -1,6 +1,4 @@
 [submodule "cookbooks/pivotal_workstation"]
 	path = cookbooks/pivotal_workstation
 	url = https://github.com/pivotal/pivotal_workstation.git
-[sumbmodule "cookbooks/casebook_workstation"]
-	path = cookbooks/casebook_workstation
-	url = https://github.com/pivotal-casebook/pivotal_workstation.git
+
