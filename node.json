@@ -2,6 +2,12 @@
 	"git_projects": [
 		["danny","https://github.com/danny/brewstrap.git"]
 		],
-	"run_list":["pivotal_workstation::git_projects","pivotal_workstation::meta_osx_base"]
+		
+	"run_list":[
+		"pivotal_workstation::git_projects",
+		"pivotal_workstation::meta_osx_base",
+		"pivotal_workstation::meta_osx_development",
+		"pivotal_workstation::meta_ruby_development"
+		]
 }
 
