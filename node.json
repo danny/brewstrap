@@ -7,8 +7,7 @@
 		"pivotal_workstation::git_projects",
 		"pivotal_workstation::meta_osx_base",
 		"pivotal_workstation::meta_osx_development",
-		"pivotal_workstation::meta_ruby_development",
-		"casebook::vim"
+		"pivotal_workstation::meta_ruby_development"
 		]
 }
 
